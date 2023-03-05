@@ -1,6 +1,5 @@
 # SECURITY-REPORTS-2023
 
-# SECURITY-REPORTS-2023
 # No Codes
 # Only Security reports from 2023
 # Download and enjoy !!!
